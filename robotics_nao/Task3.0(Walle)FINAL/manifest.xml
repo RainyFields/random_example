@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="task30wallefinal-127f8c">
+ <names>
+  <name lang="en_US">Task3.0(Walle)FINAL</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path=".">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
